@@ -1,4 +1,4 @@
-### Oii eu sou a Gabrielly Castro e estou aprendendo a linguagem PHP!
+### 🌱 Oii eu sou a Gabrielly Castro e estou aprendendo a linguagem PHP!🌱
 
 <!--
 **Sterwinxs/Sterwinxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
