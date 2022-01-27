@@ -1,5 +1,4 @@
-### 🌱 Oii eu sou a Gabrielly Castro e estou aprendendo a linguagem PHP!🌱
-
+### 🌱 Oii eu sou a Gabrielly Castro 🌱
 <div align="center">
   <a href="https://github.com/sterwinxs">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=sterwinxs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
