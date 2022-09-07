@@ -7,7 +7,7 @@
 
   <div style="display: inline_block"><br>
     
-  <img align= "center" alt= "Gaby-Phyton" height="50" width="50" src= "https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/php/php-original.svg">
+  <img align= "center" alt= "Gaby-Phyton" height="50" width="50" src= "https://pt.wiktionary.org/wiki/Ficheiro:Python.svg">
   
 </div>
   
