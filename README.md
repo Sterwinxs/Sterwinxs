@@ -9,6 +9,9 @@
     
   <img align= "center" alt= "Gaby-Phyton" height="50" width="50" src= "![Python svg](https://user-images.githubusercontent.com/96553555/188893022-9695edcb-d253-4390-82e6-792141572294.png)">
   
+  ![Python svg](https://user-images.githubusercontent.com/96553555/188893306-feac762b-e5a3-4a3b-bb5c-ae055e2dae78.png)
+
+  
 </div>
   
   ##
