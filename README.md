@@ -5,7 +5,6 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sterwinxs&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-  <div style="display: inline_block"><br>
     
   <img align= "center" alt= "Gaby-Phyton" height="50" width="50" src= "https://user-images.githubusercontent.com/96553555/188893306-feac762b-e5a3-4a3b-bb5c-ae055e2dae78.png">
  
