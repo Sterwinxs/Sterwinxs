@@ -12,7 +12,6 @@
 Minha jornada na tecnologia começou com um interesse por dados e análise, evoluindo para o desenvolvimento back-end. Atualmente, trabalho com vb6, C#, PostgreSQL e metodologias ágeis.
 
 🚀 Apaixonada por tecnologia e inovação, sempre buscando aprender e evoluir.
-<br>(@sterwinxs)</a>.</p>
 <!--
 [![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://sterwinxs.github.io/)
 [![GitHub Page](https://img.shields.io/badge/sterwinxs.github.io-67136f?style=for-the-badge)](https://sterwinxs.github.io/)
@@ -20,9 +19,7 @@ Minha jornada na tecnologia começou com um interesse por dados e análise, evol
 
 ### Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/sterwinxs/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/elicosmaker/)
-[![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=youtube&logoColor=FF00F6&color:FFF)](https://www.youtube.com/@casalfullstack)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/gabrielly-castro/)
 
 ### GitHub Stats
 
