@@ -6,7 +6,12 @@
     <span>Gabrielly Castro</span>
 </h1>
 
-<p align="justify">
+<p align="justify">💻 Back-End Developer na Paschoalotto 
+📚 Cursando Análise e Desenvolvimento de Sistemas na Wyden
+
+Minha jornada na tecnologia começou com um interesse por dados e análise, evoluindo para o desenvolvimento back-end. Atualmente, trabalho com vb6, C#, PostgreSQL e metodologias ágeis.
+
+🚀 Apaixonada por tecnologia e inovação, sempre buscando aprender e evoluir.
 <br>(@sterwinxs)</a>.</p>
 <!--
 [![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://sterwinxs.github.io/)
