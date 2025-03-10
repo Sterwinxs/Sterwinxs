@@ -7,7 +7,7 @@
 </h1>
 
 <p align="justify">💻 Back-End Developer na Paschoalotto 
-📚 Cursando Análise e Desenvolvimento de Sistemas na Wyden
+<p align="justify">📚 Cursando Análise e Desenvolvimento de Sistemas na Wyden
 
 Minha jornada na tecnologia começou com um interesse por dados e análise, evoluindo para o desenvolvimento back-end. Atualmente, trabalho com vb6, C#, PostgreSQL e metodologias ágeis.
 
